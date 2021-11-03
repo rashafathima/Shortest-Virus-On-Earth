@@ -6,9 +6,12 @@
 
 ## Development and Running Phase : 
 ### Type the following code on notepad:
-:a 
-Start
-goto a
+<br>
+<br>
+
+:a <br>
+Start <br>
+goto a <br><br>
 
 ### Save the code as filename.bat
 ### Double click on the .bat file and start freaking out xD !!!!!!!!
